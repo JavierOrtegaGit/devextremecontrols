@@ -1,0 +1,20 @@
+public class Church
+{
+int c = null;
+public Church()
+{
+    c=0;
+}
+public int validateId()
+{
+    return 0;
+
+}
+public string srespuesta()
+{
+  return "";
+
+}
+
+
+}
