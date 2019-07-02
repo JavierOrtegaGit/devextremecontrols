@@ -1,0 +1,10 @@
+public class Church
+{
+int c = null;
+public Church()
+{
+    c=0;
+}
+
+
+}
