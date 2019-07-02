@@ -5,6 +5,10 @@ public Church()
 {
     c=0;
 }
+public int validateId()
+{
+    return 0;
 
+}
 
 }
